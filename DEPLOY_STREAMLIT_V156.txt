@@ -1,0 +1,9 @@
+PhysioSentinel Gait V156 - paquete corregido para GitHub/Streamlit
+
+SUBIDA CORRECTA:
+1. Descomprime este ZIP.
+2. En GitHub, sube EL CONTENIDO descomprimido directamente a la raíz del repositorio.
+3. Comprueba que streamlit_app.py se ve en la página principal del repositorio (no dentro de una subcarpeta).
+4. En Streamlit Community Cloud selecciona Main file path: streamlit_app.py
+
+No se ha modificado la lógica clínica ni anatómica de V156; solo se ha preparado una distribución limpia de raíz para despliegue.

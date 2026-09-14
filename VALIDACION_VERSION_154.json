@@ -1,0 +1,20 @@
+{
+  "version": 154,
+  "python_files": 15,
+  "compile": "PASS",
+  "errors": [],
+  "master_tabs": [
+    4,
+    5,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "skin_npz_filename": "P11_Atlas_Anatomico_3D/piel_SKEL_75frames_opaca_translucida.npz",
+  "skin_opaque_opacity": 1.0,
+  "skin_translucent_opacity": 0.24,
+  "single_primary_master_zip": true,
+  "browser_exact_view_video_auto_in_master_zip": false
+}

@@ -1,0 +1,10 @@
+{
+  "version": 155,
+  "python_compile": "PASS",
+  "base_anatomy": "V153 Denver + GeometryPath muscle rig",
+  "master_export": "V154 retained",
+  "anti_regression": true,
+  "denver_retry_ram_safe": true,
+  "preserve_last_valid_denver_same_session": true,
+  "full_hamner_fallback_when_denver_ready": false
+}

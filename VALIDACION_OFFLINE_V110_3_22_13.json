@@ -1,0 +1,16 @@
+{
+  "bones_detected": 28,
+  "muscles_detected": 76,
+  "bone_vertices0": 9637,
+  "muscle_vertices0": 11150,
+  "bone_bbox_inside_fraction": 0.9903496938881394,
+  "muscle_bbox_inside_fraction": 0.9655605381165919,
+  "frames": 75,
+  "segment_affines_shape": [
+    75,
+    8,
+    12
+  ],
+  "classifier_status": "PASS",
+  "registration": "Denver joint landmarks -> SKEL joints; no PCA for donor axes"
+}

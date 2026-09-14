@@ -1,0 +1,6 @@
+PhysioSentinel Gait Version 157
+
+Descomprime este ZIP y sube SU CONTENIDO directamente a la raiz del repositorio GitHub.
+En Streamlit Cloud, Main file path: streamlit_app.py
+
+V157 conserva V156 y añade correccion local de orientacion Denver del pie + QC especifico pie/tobillo.

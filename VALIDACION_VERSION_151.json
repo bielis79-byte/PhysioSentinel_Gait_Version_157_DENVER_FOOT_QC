@@ -1,0 +1,32 @@
+{
+  "version": 151,
+  "python_compile": "PASS",
+  "tabs": {
+    "12": "Cinemática Anatómica 3D + variabilidad + índices transparentes",
+    "13": "Análisis Musculoesquelético 3D"
+  },
+  "tab8_export": "Tabs 10/11/12/13 + resultados + gráficas + vídeos disponibles",
+  "musculotendinous_metrics": [
+    "GeometryPath 3D",
+    "L_MT",
+    "Delta_L",
+    "v_MT",
+    "excursion",
+    "min_max_phase",
+    "bilateral_symmetry",
+    "angle_length",
+    "muscle_group_coordination"
+  ],
+  "kinematic_metrics": [
+    "angles",
+    "ROM",
+    "velocity",
+    "acceleration",
+    "symmetry",
+    "coordination",
+    "3D trajectories",
+    "smoothness",
+    "intrasequence variability"
+  ],
+  "kinetics_not_inferred": true
+}

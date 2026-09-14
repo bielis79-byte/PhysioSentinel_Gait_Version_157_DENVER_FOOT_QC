@@ -1,0 +1,10 @@
+{
+  "version": 153,
+  "python_compile": "PASS",
+  "compile_errors": [],
+  "tab13_persistent_state": true,
+  "semantic_exports": true,
+  "trunk_translation_metrics": true,
+  "front_semantic_exports": true,
+  "scope": "static/source validation; live Streamlit/browser execution not performed"
+}

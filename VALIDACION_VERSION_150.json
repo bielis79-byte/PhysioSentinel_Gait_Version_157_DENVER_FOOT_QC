@@ -1,0 +1,14 @@
+{
+  "version": 150,
+  "skin_vertices_per_frame": 6890,
+  "skin_faces_full": 13776,
+  "skin_frames": 75,
+  "face_subsampling_removed": true,
+  "skin_payload_full_topology": true,
+  "smooth_shading": true,
+  "opaque_mode_opacity_1": true,
+  "translucent_mode_available": true,
+  "smooth_material_defined": true,
+  "python_compile": "PASS",
+  "continuous_surface_expected": true
+}
